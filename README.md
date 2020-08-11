@@ -1,4 +1,4 @@
-<h2> ### Hi there 👋 I'm Natalie Tam,</h2>
+<h2> Hi there 👋 I'm Natalie Tam,</h2>
 
 A management engineering student going into second year! I'm passionate about SWE, Product Management, and improving efficiency and performance. 
 
