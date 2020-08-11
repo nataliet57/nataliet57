@@ -7,3 +7,6 @@ A management engineering student going into second year! I'm passionate about SW
 - 📖 I'm currently reading: Best of AA Gills
 - 💬 Ask me about stocks 📈 and food 🍔
 - ⚡ Fun fact: I've rewatched the Office 6 times..
+
+<h3 align="center"> feel free to look at my experiment lab. ❤ </h3>
+
