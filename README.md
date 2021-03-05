@@ -4,7 +4,7 @@ A management engineering student in my second year at the University of Waterloo
 
 - 🔭 I’m currently working as a Full Stack Engineer
 - 🌱 I’m currently learning react
-- 📖 I'm currently reading: Best of AA Gills
+- 📖 I'm currently reading Subtle Art of not Giving a F*ck!
 - 💬 Ask me about food 🍔
 - ⚡ Fun fact: I've rewatched the Office 6 times..
 
