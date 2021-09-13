@@ -2,7 +2,7 @@
 
 A management engineering student in my second year at the University of Waterloo! I'm passionate about SWE, Product Management, and improving efficiency and performance. 
 
-- 🔭 I will be working as a developer @RBC
+- 🔭 I'm working as a SWE at @RBCCM
 - 🌱 I’m currently learning react
 - 📖 I'm currently reading Subtle Art of not Giving a F*ck!
 - 💬 Ask me about food 🍔
