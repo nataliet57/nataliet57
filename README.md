@@ -1,6 +1,6 @@
 <h2> Hi there 👋 I'm Natalie Tam,</h2>
 
-A management engineering student in my second year at the University of Waterloo! I'm passionate about SWE, Product Management, and improving efficiency and performance. 
+A management engineering student in my third year at the University of Waterloo! I'm passionate about SWE, Product Management, and improving efficiency and performance. 
 
 - 🔭 I'm working as a SWE at @RBCCM
 - 🌱 I’m currently learning react
