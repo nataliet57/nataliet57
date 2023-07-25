@@ -2,9 +2,9 @@
 
 A management engineering student in my third year at the University of Waterloo! I'm passionate about SWE, Product Management, and improving efficiency and performance. 
 
-- 🔭 I'm working as a SWE at @RBCCM
+- 🔭 I'm working as a SWE at @Apple
 - 🌱 I’m currently learning react
-- 📖 I'm currently reading Subtle Art of not Giving a F*ck!
+- 📖 I'm currently reading 101 Essays that will change the way you think
 - 💬 Ask me about food 🍔
 - ⚡ Fun fact: I've rewatched the Office 6 times..
 
